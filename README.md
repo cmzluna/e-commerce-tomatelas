@@ -1,6 +1,7 @@
-# E-commerce project
+# Tomatelas
 
-Ecommerce project built from scratch in a month within a team of 5 devs. 
+Ecommerce with shopping cart, products, filters, admin dashboard.  
+This project was built from scratch in a month within a team of 5 devs. 
 
 ## Technologies being used:
 
